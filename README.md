@@ -4,7 +4,7 @@ Make short link by using [MDisk](https://www.cofilink.com/use-api/) API key
 
 #### 𝐓𝐡𝐞 𝐄𝐚𝐬𝐲 𝐖𝐚𝐲
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/MdiskVideoBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=xhttps://github.com/SAGEOBITO/MdiskVideoBot))
 
 ##### 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
